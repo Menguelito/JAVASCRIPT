@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d96597c-557b-4467-83d5-bbc90ce73a53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Javascript.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk1/1.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk1/1.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk1/1.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk1/1.3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk1/1.3.js" afterDir="false" />
+    <list default="true" id="2d96597c-557b-4467-83d5-bbc90ce73a53" name="Default Changelist" comment="H1 commit en push">
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/2.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/2.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/2.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/Images/aap1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/Images/aap2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -64,11 +77,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605785989291</updated>
-      <workItem from="1605785990337" duration="1282000" />
+      <workItem from="1605785990337" duration="1950000" />
+      <workItem from="1605788300942" duration="425000" />
     </task>
+    <task id="LOCAL-00001" summary="H1 commit en push">
+      <created>1605787327349</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605787327350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="H1 commit en push" />
+    <option name="LAST_COMMIT_MESSAGE" value="H1 commit en push" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1605787065358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605787065358" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605787342169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605787342169" />
   </component>
 </project>
