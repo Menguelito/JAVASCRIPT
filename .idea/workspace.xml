@@ -19,12 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d96597c-557b-4467-83d5-bbc90ce73a53" name="Default Changelist" comment="H1 commit en push">
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/2.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/2.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/2.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/Images/aap1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/Images/aap2.jpg" afterDir="false" />
+    <list default="true" id="2d96597c-557b-4467-83d5-bbc90ce73a53" name="Default Changelist" comment="H2 commit en push">
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/3.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/Images/aap1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/Images/aap2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/Images/aap3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/Images/aap4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/Images/aap5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/Images/aap6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/Images/aap7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/Images/aap8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/Images/aap9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +44,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -59,12 +65,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.3.1.html">
     <configuration name="1.2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Javascript/Hoofdstuk1/1.2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="3.1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript/Hoofdstuk3/3.1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.3.1.html" />
         <item itemvalue="JavaScript Debug.1.2.html" />
       </list>
     </recent_temporary>
@@ -78,7 +88,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605785989291</updated>
       <workItem from="1605785990337" duration="1950000" />
-      <workItem from="1605788300942" duration="425000" />
+      <workItem from="1605788300942" duration="1322000" />
+      <workItem from="1605878191440" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="H1 commit en push">
       <created>1605787327349</created>
@@ -87,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605787327350</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="H2 commit en push">
+      <created>1605789017978</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605789017978</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,19 +121,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="H1 commit en push" />
-    <option name="LAST_COMMIT_MESSAGE" value="H1 commit en push" />
+    <MESSAGE value="H2 commit en push" />
+    <option name="LAST_COMMIT_MESSAGE" value="H2 commit en push" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1605787065358">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605787065358" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605787342169">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605789024821">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605787342169" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605789024821" />
   </component>
 </project>
