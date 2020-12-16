@@ -8,12 +8,12 @@ var selectedPictures = [];
 
 function createImage (i) {
     var picture = document.createElement("img");
-    picture.src = "images/background.jpg";
+    picture.src = "Images/background.jpg";
     picture.className = "selection";
     picture.style.border = "3px solid black";
     picture.addEventListener("click", function () {
         picture.style.border = "3px red solid";
-        picture.src = "images/aap" + i + ".jpg";
+        picture.src = "Images/aap" + i + ".jpg";
         if (selectedPictures.length < 2) {
             selectedPictures.push(picture);
         }

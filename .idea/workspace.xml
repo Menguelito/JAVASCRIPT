@@ -19,21 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d96597c-557b-4467-83d5-bbc90ce73a53" name="Default Changelist" comment="H4 en H5 commit en push">
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Memory.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Memory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Memory.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2d96597c-557b-4467-83d5-bbc90ce73a53" name="Default Changelist" comment="H6 commit en push">
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6/Memory.js" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6/Memory.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +85,7 @@
       <workItem from="1607570792091" duration="617000" />
       <workItem from="1607571848477" duration="1719000" />
       <workItem from="1608025140495" duration="1023000" />
-      <workItem from="1608099466069" duration="760000" />
+      <workItem from="1608099466069" duration="1320000" />
     </task>
     <task id="LOCAL-00001" summary="H1 commit en push">
       <created>1605787327349</created>
@@ -135,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607572800258</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="H6 commit en push">
+      <created>1608100291378</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608100291378</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,16 +152,17 @@
     <MESSAGE value="H2 commit en push" />
     <MESSAGE value="H3 commit en push" />
     <MESSAGE value="H4 en H5 commit en push" />
-    <option name="LAST_COMMIT_MESSAGE" value="H4 en H5 commit en push" />
+    <MESSAGE value="H6 commit en push" />
+    <option name="LAST_COMMIT_MESSAGE" value="H6 commit en push" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1605787065358">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605787065358" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607572813296">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608100305817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607572813296" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608100305817" />
   </component>
 </project>
