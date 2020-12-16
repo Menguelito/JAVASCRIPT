@@ -19,50 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d96597c-557b-4467-83d5-bbc90ce73a53" name="Default Changelist" comment="H3 commit en push">
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht1/4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht1/OPDR1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht2/4.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht2/4.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht2/Images/aap1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht2/Images/aap2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht2/Images/aap3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht2/Images/aap4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht2/Images/aap5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht2/Images/aap6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht2/Images/aap7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht2/Images/aap8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht2/Images/aap9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/4.3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/4.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/Images/kin1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/Images/kin2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/Images/kin3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/Images/kin4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/Images/kin5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/Images/neus1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/Images/neus2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/Images/neus3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/Images/neus4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/Images/neus5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/Images/ogen1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/Images/ogen2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/Images/ogen3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/Images/ogen4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Opdracht3/Images/ogen5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Images/aap1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Images/aap2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Images/aap3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Images/aap4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Images/aap5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Images/aap6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Images/aap7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Images/aap8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Images/aap9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Images/heart.png" afterDir="false" />
+    <list default="true" id="2d96597c-557b-4467-83d5-bbc90ce73a53" name="Default Changelist" comment="H4 en H5 commit en push">
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/aap9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Memory.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Memory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6/Memory.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +96,9 @@
       <workItem from="1605878191440" duration="1008000" />
       <workItem from="1606857536506" duration="1009000" />
       <workItem from="1607570792091" duration="617000" />
-      <workItem from="1607571848477" duration="708000" />
+      <workItem from="1607571848477" duration="1719000" />
+      <workItem from="1608025140495" duration="1023000" />
+      <workItem from="1608099466069" duration="760000" />
     </task>
     <task id="LOCAL-00001" summary="H1 commit en push">
       <created>1605787327349</created>
@@ -156,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605879006708</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="H4 en H5 commit en push">
+      <created>1607572800258</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607572800258</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,16 +157,17 @@
     <MESSAGE value="H1 commit en push" />
     <MESSAGE value="H2 commit en push" />
     <MESSAGE value="H3 commit en push" />
-    <option name="LAST_COMMIT_MESSAGE" value="H3 commit en push" />
+    <MESSAGE value="H4 en H5 commit en push" />
+    <option name="LAST_COMMIT_MESSAGE" value="H4 en H5 commit en push" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1605787065358">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605787065358" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605879010286">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607572813296">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605879010286" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607572813296" />
   </component>
 </project>
