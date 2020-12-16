@@ -94,7 +94,7 @@ function checkWin() {
 function clear() {
     for (var i = 0; i < 2; i++) {
         selectedPictures[i].style.borderColor = "black";
-        selectedPictures[i].src = "images/background.jpg";
+        selectedPictures[i].src = "Images/background.jpg";
     }
     selectedPictures = [];
 }
